@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Cokes Blog',
-  author: 'Coke',
+  title: 'As 的作品集',
+  author: 'As',
   email: 'null',
   link: 'https://nobelium-nine-xi.vercel.app/',
   description: '死亡过于绝对，而活着，则有无限的可能。',
